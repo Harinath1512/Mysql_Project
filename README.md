@@ -124,7 +124,7 @@ food-delivery-sql-project/
 ## 👤 Author
 
 **Eega Harinath**
-B.Tech (CSM), Fresher | Innomatics Research Labs
+B.Tech (CSM), Fresher
 
 🔗 [LinkedIn](https://linkedin.com/in/harinatheega) · 💻 [GitHub](https://github.com/Harinath1512)
 
